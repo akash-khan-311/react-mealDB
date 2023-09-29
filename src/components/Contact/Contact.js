@@ -1,0 +1,11 @@
+import React from 'react';
+
+const Contact = () => {
+    return (
+        <div className='bg-slate-800 mt-10 text-white py-10 text-center'>
+            <h1 className='text-4xl font-bold capitalize'>Oh No !!! I was wrong Again ,  Please Go To the food of the menu</h1>
+        </div>
+    );
+};
+
+export default Contact;
